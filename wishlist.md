@@ -12,6 +12,8 @@
 **TOTAL**: _$13,420_ **TOTAL EXCLUDING APPLE**: $370
 
 ## 🎀 Accessories
+| Name | Price | Owned |
+|:---- | :---- | -----:| 
 | Mous Macbook Case | $90 | ❌ |
 | The ridge wallet | $60 | ❌ |
 
