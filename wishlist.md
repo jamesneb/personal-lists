@@ -23,5 +23,23 @@
 | Name | Price | Owned |
 |:---- | :---- | -----:| 
 | Creed Irish Green Tweed Cologne | $230 | ❌ |
+| Testosterone Injections | $100 | ❌ |
+| Iron supplements | $20 | ❌ |
 
-**TOTAL**: _$230_
+**TOTAL**: _$350_
+
+## 🪪 Memberships
+| Name | Price | Owned |
+|:---- | :---- | -----:| 
+| LA Fitness | $40 / mo | ❌ |
+| MMA | $222 / mo | ❌ |
+| Yoga | $0 / mo with LA FITNESS | ❌ |
+| Swimming | $0 / mo with LA FITNESS | ❌ |
+
+**TOTAL**: $262 / mo
+
+## 💊 Medical
+| Vision Therapy | $555 / mo | ❌ |
+| Hair Transplant - Estenova | $ 3500 | ❌ |
+
+**TOTAL EXCLUDING VISION THERAPT**: $ 3500
