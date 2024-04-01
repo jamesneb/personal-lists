@@ -44,6 +44,7 @@
 
 ## 💊 Medical
 | Name | Price | Owned |
+|:---- | :---- | -----:| 
 | Vision Therapy | $555 / mo | ❌ |
 | Hair Transplant - Estenova | $ 3500 | ❌ |
 
