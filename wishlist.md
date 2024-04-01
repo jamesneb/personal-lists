@@ -23,6 +23,5 @@
 | Name | Price | Owned |
 |:---- | :---- | -----:| 
 | Creed Irish Green Tweed Cologne | $230 | ❌ |
-| Mous Macbook Case | $90 | ❌ |
 
-**TOTAL**: _$320_
+**TOTAL**: _$230_
