@@ -16,9 +16,11 @@
 **TOTAL**: _$14,255_ **TOTAL EXCLUDING APPLE**: $1205 **Total Low**: _$14,035_ **Total Medium**: _$220_ **Total High**: _$0_
 
 ## 🖱️ Office Equipment
+| Name | Price | Owned | Priority |
 |:---- | :----: | :-----:| ------: |
 | Herman Miller Embody Chair | $1000 | ❌ | Low |
 | Beflo Tenon Premium | $3000 | ❌ | Low |
+
 **TOTAL**: _$4,000_ 
 
 ## 🎀 Accessories
