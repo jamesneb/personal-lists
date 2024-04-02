@@ -15,6 +15,12 @@
 
 **TOTAL**: _$14,255_ **TOTAL EXCLUDING APPLE**: $1205 **Total Low**: _$14,035_ **Total Medium**: _$220_ **Total High**: _$0_
 
+## 🖱️ Office Equipment
+|:---- | :----: | :-----:| ------: |
+| Herman Miller Embody Chair | $1000 | ❌ | Low |
+| Beflo Tenon Premium | $3000 | ❌ | Low |
+**TOTAL**: _$4,000_ 
+
 ## 🎀 Accessories
 | Name | Price | Owned | Priority |
 |:---- | :----:|:-----:|-------:|
@@ -29,6 +35,10 @@
 | Creed Irish Green Tweed Cologne | $230 | ❌ | Low |
 | Testosterone Injections | $100 | ❌ | High |
 | Iron supplements | $20 | ❌ | High |
+| CeraVe Hydrating Facial Cleanser | $15 |  ❌ | Low |
+| L’Oréal Men Expert Hydra Energetic 24hr Anti-Fatigue SPF15 | $15 | ❌ | Low |
+| oldfadenMD Doctor’s Scrub | $40 | ❌ | Low |
+| Health Eye Serum | $25 | ❌ | Low |
 
 **TOTAL**: _$350_ **TOTAL LOW:** _$230_ **TOTAL MEDIUM**: _$0_ **TOTAL HIGH**: _$120_
 
