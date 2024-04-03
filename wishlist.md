@@ -41,6 +41,7 @@
 | L’Oréal Men Expert Hydra Energetic 24hr Anti-Fatigue SPF15 | $15 | ❌ | Low |
 | oldfadenMD Doctor’s Scrub | $40 | ❌ | Low |
 | Health Eye Serum | $25 | ❌ | Low |
+| Big Head Mousse | $25 | ❌ | Low |
 
 **TOTAL**: _$350_ **TOTAL LOW:** _$230_ **TOTAL MEDIUM**: _$0_ **TOTAL HIGH**: _$120_
 
